@@ -5,7 +5,15 @@
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5652570"><img src="https://img.shields.io/badge/SSRN-Preprint%205652570-002D62?style=for-the-badge&logo=academia&logoColor=white" alt="SSRN" /></a>
   <a href="https://zenodo.org/records/17434259"><img src="https://img.shields.io/badge/Zenodo-Record%2017434259-2ea44f?style=for-the-badge&logo=zenodo&logoColor=white" alt="Zenodo" /></a>
   <a href="./paper.pdf"><img src="https://img.shields.io/badge/PDF-Full%20Paper%20(27%20Pages)-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Paper PDF" /></a>
-  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5652570"><img src="https://img.shields.io/badge/Metrics-Downloads%20%26%20Views%20Tracked-8A2BE2?style=for-the-badge" alt="Metrics" /></a>
+</p>
+
+<p align="left">
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5652570"><img src="https://img.shields.io/badge/SSRN%20Views-260-002D62?style=flat-square&logo=academia&logoColor=white" alt="SSRN Views" /></a>
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5652570"><img src="https://img.shields.io/badge/SSRN%20Downloads-37-blue?style=flat-square" alt="SSRN Downloads" /></a>
+  <a href="https://zenodo.org/records/17434259"><img src="https://img.shields.io/badge/Zenodo%20Views-44-2ea44f?style=flat-square&logo=zenodo&logoColor=white" alt="Zenodo Views" /></a>
+  <a href="https://zenodo.org/records/17434259"><img src="https://img.shields.io/badge/Zenodo%20Downloads-24-success?style=flat-square" alt="Zenodo Downloads" /></a>
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5652570"><img src="https://img.shields.io/badge/PlumX%20Usage-297-orange?style=flat-square" alt="PlumX Usage" /></a>
+  <img src="https://img.shields.io/badge/Total%20Readership-300+%20Views%20%7C%2061%20Downloads-purple?style=flat-square" alt="Total Impact" />
 </p>
 
 <p align="left">
