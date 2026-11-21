@@ -1,10 +1,21 @@
 # Algorithmic Influence on Political Awareness and Narratives
 ### How Instagram’s Engagement System Influences the Civic Understanding of the Indian Youth
 
-[![SSRN Preprint](https://img.shields.io/badge/SSRN-5652570-blue.svg)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5652570)
-[![Zenodo DOI](https://img.shields.io/badge/Zenodo-10.5281%2Fzenodo.17434259-green.svg)](https://zenodo.org/records/17434259)
-[![Paper PDF](https://img.shields.io/badge/PDF-Download%20Paper-red.svg)](./paper.pdf)
-[![Python 3.8+](https://img.shields.io/badge/Python-3.8+-yellow.svg)](https://www.python.org/)
+<p align="left">
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5652570"><img src="https://img.shields.io/badge/SSRN-Preprint%205652570-002D62?style=for-the-badge&logo=academia&logoColor=white" alt="SSRN" /></a>
+  <a href="https://zenodo.org/records/17434259"><img src="https://img.shields.io/badge/Zenodo-Record%2017434259-2ea44f?style=for-the-badge&logo=zenodo&logoColor=white" alt="Zenodo" /></a>
+  <a href="./paper.pdf"><img src="https://img.shields.io/badge/PDF-Full%20Paper%20(27%20Pages)-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Paper PDF" /></a>
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5652570"><img src="https://img.shields.io/badge/Metrics-Downloads%20%26%20Views%20Tracked-8A2BE2?style=for-the-badge" alt="Metrics" /></a>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python_3.8+-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy" />
+  <img src="https://img.shields.io/badge/Statsmodels-005571?style=flat-square" alt="Statsmodels" />
+  <img src="https://img.shields.io/badge/TextBlob-333333?style=flat-square" alt="TextBlob" />
+</p>
 
 **Authors:**  
 - **Suhani Minocha**  
